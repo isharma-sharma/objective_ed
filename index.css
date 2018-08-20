@@ -1,0 +1,14 @@
+/* canvas{
+  border: 1px  solid black;
+} */
+.form_style{
+  width: 350px;
+  height:170px;
+  margin-left: 100px;
+}
+#print{
+  float: right;
+}
+label{
+  font-weight: bold;
+}
